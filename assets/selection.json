@@ -1,0 +1,15 @@
+{
+ "best_method": "mfcc",
+ "metode": "mfcc",
+ "lapis": "ML",
+ "model": "SVM",
+ "f1": 0.6583856887406186,
+ "f1_std": 0.06669751281913118,
+ "acc": 0.6666666666666667,
+ "key": "mfcc|ML|SVM|base",
+ "method_names": {
+  "mfcc": "A. MFCC (Anggota 1)",
+  "mel": "B. Log-Mel (Anggota 2)",
+  "prosodic": "C. Prosodik (Anggota 3)"
+ }
+}
